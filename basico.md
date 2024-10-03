@@ -22,9 +22,6 @@ O workflow básico do Git envolve três etapas principais:
 Após o commit, você pode **push (enviar)** essas mudanças para um repositório remoto como o **GitHub**, permitindo que outros colaboradores tenham acesso.
 
 ## Boas Práticas para Mensagens de Commit
-Na parte da imagem referente às **mensagens de commit**, são apresentadas boas práticas para escrever mensagens claras e úteis, além do conceito de **Commits Atômicos**. Aqui está uma explicação detalhada:
-
-### Boas Práticas para Mensagens de Commit
 
 1. **Foque em uma única tarefa por commit**: Cada commit deve estar relacionado a uma mudança específica no código, preferencialmente uma funcionalidade ou correção. Isso ajuda a manter o histórico de mudanças organizado e mais fácil de entender.
    
