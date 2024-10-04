@@ -23,6 +23,13 @@ além de boas práticas para o uso eficiente do Git em projetos colaborativos.
     - **Commit**: Salva suas alterações como uma captura de estado no repositório local.
     - **Add (adicionar)**: Adiciona mudanças à área de estágio para o próximo commit.
 
+## Tópicos
+
+- [Git Básico](./notes/basico.md)
+- [Configurações e Funcionamento Interno dos commits no Git](./notes/configuracoes.md)
+- [Git Intermediário](./notes/intermediario.md)
+- [GitHub](./notes/github.md)
+
 ## Licença
 
 Este projeto é licenciado sob a Licença MIT:

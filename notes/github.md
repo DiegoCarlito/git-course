@@ -23,8 +23,6 @@ Um **repositório remoto** é uma cópia do seu projeto hospedada em uma platafo
     git remote add origin git@github.com:usuario/repo.git
     ```
 
----
-
 ### Fetch
 
 O comando `git fetch` busca todas as alterações do repositório remoto, mas não as integra ao seu projeto local. Ele é útil para ver o que mudou no servidor antes de fazer qualquer modificação local.
@@ -34,8 +32,6 @@ git fetch origin
 ```
 
 - Isso busca as alterações do repositório remoto `origin` (geralmente o padrão) e atualiza suas referências locais.
-
----
 
 ### Pull
 
@@ -48,8 +44,6 @@ git pull origin main
 - Isso busca e mescla as alterações do branch `main` no repositório `origin` com seu branch local.
 
 - Cuidado: Se houverem conflitos, você precisará resolvê-los manualmente.
-
----
 
 ### Push
 
