@@ -3,17 +3,17 @@
 1. **Configuração do nome de usuário**:
    - Para definir o nome de usuário globalmente em todos os repositórios do seu computador:
      ```bash
-     git config --global user.name "DiegoCarlito"
+     git config --global user.name "username"
      ```
    - Para definir o nome de usuário apenas para um repositório específico:
      ```bash
-     git config user.name "DiegoCarlito"
+     git config user.name "username"
      ```
 
 2. **Configuração do e-mail**:
    - Para definir o endereço de e-mail globalmente em todos os repositórios:
      ```bash
-     git config --global user.email "diego.carlito01@gmail.com"
+     git config --global user.email "example@gmail.com"
      ```
 
 3. **Configuração do editor de código**:
@@ -44,4 +44,4 @@
 
 ## Resumo
 
-![Configurações iniciais e funcionamento dos commits no Git](./images/git-config.png)
+![Configurações iniciais e funcionamento dos commits no Git](../images/git-config.png)

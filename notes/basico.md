@@ -40,4 +40,4 @@ Após o commit, você pode **push (enviar)** essas mudanças para um repositóri
 
 ## Resumo
 
-![Básico de Git](./images/git-basic.png)
+![Básico de Git](../images/git-basic.png)
